@@ -1,0 +1,17 @@
+#rows{
+    font-size: large;
+    position: relative;
+    left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#columns{
+    font-size: large;
+    position: relative;
+    left: 3px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#result_display{
+    font-size: 50px;
+    color: blue;
+}
